@@ -59,7 +59,7 @@ const Portfolio = () => {
               A dynamic and interactive web application built using React.js, designed to display a food menu with categorized sections for starters, breakfast, lunch, and dinner. The app leverages React Router for seamless navigation between different menu categories and AOS (Animate on Scroll) for smooth scrolling animations, enhancing the user experience. Users can easily explore the various food options with clear visual hierarchy and organized layout. This project highlights my proficiency in front-end development, React.js, and UI/UX design.
               </p>
               <a href="https://github.com/your-username/project1" className="project-link">View on GitHub</a>
-              <a href='https://pratikshayummy.netlify.app/' className='Project-deploy'>Project link</a>
+              <a href='https://pratikshayummy.netlify.app/' target='_blank' rel="noreferrer"  className='Project-deploy'>Project link</a>
             </div>
           </div>
       
