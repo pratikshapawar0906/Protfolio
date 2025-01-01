@@ -18,6 +18,7 @@ const Skills = () => {
               <li><i className="fas fa-code"></i> HTML5</li>
               <li><i className="fab fa-css3-alt"></i> CSS3</li>
               <li><i className="fas fa-database"></i> MongoDB</li>
+              <li><i className="fas fa-express"></i> Express.js</li>
             </ul>
           </div>
       
