@@ -55,8 +55,14 @@ const Resume = () => {
               <h2>Education</h2>
               <div className="education">
                 <h3>Bachelor of Science in Computer Science</h3>
-                <p><strong>University:</strong> Fashion Institute of Technology</p>
+                <p><strong>University:</strong> Savitribai Phule Pune, University</p>
                 <p><strong>Graduation Year:</strong> 2024</p>
+                <h3>HSC</h3>
+                <p><strong>School:</strong> Pk commerce and science junior college</p>
+                <p><strong>Passing Year:</strong> 2021</p>
+                <h3>SSC</h3>
+                <p><stlrong>School:</stlrong> Shree shivaji vidhya mandir </p>
+                <p><strong>Passing Year:</strong> 2019</p>
               </div>
             </div>
     
